@@ -33,7 +33,9 @@ AI기술을 통해 실제 문제를 해결하는 데에 열정을 가지고 있�
 |--------|-------------|------------|------|
 
 | **Developer survival** | 뱀파이어 서바이버류 | Pygame | [🔗 GitHub](https://github.com/plmokn5w/Team-CTRL) |
+
 | **Study Repository** | 개인 공부 웹사이트 | naverblog | [🔗 Naver](https://blog.naver.com/trailer_) |
+
 | **Algorithm Study** | 코딩테스트 대비 문제풀이 | C/C++, Python | [🔗 GitHub](https://github.com/jukanmi/baekjjoon) |
 
 ---
