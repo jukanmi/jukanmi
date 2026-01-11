@@ -11,20 +11,29 @@ AI기술을 통해 실제 문제를 해결하는 데에 열정을 가지고 있�
 ## 🔧 Tech Stack
 
 **Languages**  
+
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 **Backend**  
 
 **Database**  
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Tools & DevOps**  
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white)
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=%20Studio%20Code&logoColor=white)
 
 ## 📁 Featured Projects
@@ -32,8 +41,10 @@ AI기술을 통해 실제 문제를 해결하는 데에 열정을 가지고 있�
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
 
-| **Developer survival** | 뱀파이어 서바이버류 | Pygame | [🔗 GitHub](https://github.com/plmokn5w/Team-CTRL) |
 ![게임서바이벌](https://github.com/user-attachments/assets/f750fa14-8a53-42f6-8ee5-3e92604c9354)
+
+| **Developer survival** | 뱀파이어 서바이버류 | Pygame | [🔗 GitHub](https://github.com/plmokn5w/Team-CTRL) |
+
 
 | **Study Repository** | 개인 공부 웹사이트 | naverblog | [🔗 Naver](https://blog.naver.com/trailer_) |
 
@@ -46,21 +57,27 @@ AI기술을 통해 실제 문제를 해결하는 데에 열정을 가지고 있�
 ## 📌 My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jukanmi&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukanmi&layout=compact&theme=tokyonight)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trailer)](https://solved.ac/trailer/)
+
 ---
 
 ## 🗓️ Recent Activity
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 ---
 
 ## 📬 Contact
 
-- Email: trailer@hanyang.ac.kr  
-- Blog: [trailer.tistory.com](https://trailer.tistory.com)  
+- Email: trailer@hanyang.ac.kr
+- 
+- Blog: [trailer.tistory.com](https://trailer.tistory.com)
+- 
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
