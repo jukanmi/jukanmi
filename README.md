@@ -8,6 +8,12 @@ AI기술을 통해 실제 문제를 해결하는 데에 열정을 가지고 있�
 
 ---
 
+## 📌 My PS Stats
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trailer)](https://solved.ac/trailer/)
+
+---
+
 ## 🔧 Tech Stack
 
 **Languages**  
@@ -52,17 +58,19 @@ AI기술을 통해 실제 문제를 해결하는 데에 열정을 가지고 있�
 
 ---
 
-## 📌 My PS Stats
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trailer)](https://solved.ac/trailer/)
-
----
-
 ## 🗓️ Recent Activity
 
 <!--START_SECTION:activity-->
 | **Fighters** | 언리얼 학습용 오픈월드 게임| Enreal Engine |  [🔗 GitHub](https://github.com/jukanmi/Fighters) |
 <!--END_SECTION:activity-->
+
+---
+
+##  My License
+
+컴퓨터 활용능력 1급
+
+SQL Developer
 
 ---
 
