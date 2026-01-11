@@ -41,7 +41,8 @@ AI기술을 통해 실제 문제를 해결하는 데에 열정을 가지고 있�
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
 
-![게임서바이벌](https://github.com/user-attachments/assets/f750fa14-8a53-42f6-8ee5-3e92604c9354)
+![게임서바이벌](https://github.com/user-attachments/assets/c4b129cb-73f3-4e95-956d-dccc8be65cd9)
+
 
 | **Developer survival** | 뱀파이어 서바이버류 | Pygame | [🔗 GitHub](https://github.com/plmokn5w/Team-CTRL) |
 
