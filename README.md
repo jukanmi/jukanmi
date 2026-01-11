@@ -38,9 +38,6 @@ AI기술을 통해 실제 문제를 해결하는 데에 열정을 가지고 있�
 
 ## 📁 Featured Projects
 
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-
 ![게임서바이벌](https://github.com/user-attachments/assets/c4b129cb-73f3-4e95-956d-dccc8be65cd9)
 
 
@@ -55,11 +52,7 @@ AI기술을 통해 실제 문제를 해결하는 데에 열정을 가지고 있�
 
 ---
 
-## 📌 My GitHub Stats
-
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jukanmi&theme=romantic)
-
-![Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jukanmi&theme=romantic&utcOffset=9)
+## 📌 My PS Stats
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trailer)](https://solved.ac/trailer/)
 
@@ -68,7 +61,7 @@ AI기술을 통해 실제 문제를 해결하는 데에 열정을 가지고 있�
 ## 🗓️ Recent Activity
 
 <!--START_SECTION:activity-->
-
+| **Fighters** | 언리얼 학습용 오픈월드 게임| Enreal Engine |  [🔗 GitHub](https://github.com/jukanmi/Fighters) |
 <!--END_SECTION:activity-->
 
 ---
