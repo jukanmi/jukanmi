@@ -41,14 +41,14 @@ AI기술을 통해 실제 문제를 해결하는 데에 열정을 가지고 있�
 ![게임서바이벌](https://github.com/user-attachments/assets/c4b129cb-73f3-4e95-956d-dccc8be65cd9)
 
 
-| **Developer survival** | 뱀파이어 서바이버류 | Pygame | [🔗 GitHub](https://github.com/plmokn5w/Team-CTRL) |
+| **Developer survival** | 뱀파이어 서바이버류 | Pygame | [🔗 GitHub](https://github.com/plmokn5w/Team-CTRL) | 2022-12-03 ~ 2022-12-15
 
 
-| **Study Repository** | 개인 공부 웹사이트 | naverblog | [🔗 Naver](https://blog.naver.com/trailer_) |
+| **Study Repository** | 개인 공부 웹사이트 | naverblog | [🔗 Naver](https://blog.naver.com/trailer_) | 2022-07-11 ~
 
-| **spaceInvader game** | 팀 합작 게임 | Java | [🔗 GitHub](https://github.com/math-odd/annoyingpotatoes) |
+| **spaceInvader game** | 팀 합작 게임 | Java | [🔗 GitHub](https://github.com/math-odd/annoyingpotatoes) | 2023-10-08 ~ 2023-12-04
 
-| **Algorithm Study** | 코딩테스트 대비 문제풀이 | C/C++, Python | [🔗 GitHub](https://github.com/jukanmi/baekjjoon) |
+| **Algorithm Study** | 코딩테스트 대비 문제풀이 | C/C++, Python | [🔗 GitHub](https://github.com/jukanmi/baekjjoon) | 2022-09-16 ~ 
 
 ---
 
