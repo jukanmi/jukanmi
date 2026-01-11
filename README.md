@@ -57,9 +57,9 @@ AI기술을 통해 실제 문제를 해결하는 데에 열정을 가지고 있�
 
 ## 📌 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jukanmi&show_icons=true&theme=tokyonight)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jukanmi&theme=romantic)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukanmi&layout=compact&theme=tokyonight)
+![Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jukanmi&theme=romantic&utcOffset=9)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trailer)](https://solved.ac/trailer/)
 
