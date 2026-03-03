@@ -78,9 +78,7 @@ SQL Developer
 
 - Email: trailer@hanyang.ac.kr
 - 
-- Blog: [trailer.tistory.com](https://trailer.tistory.com)
-- 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Blog: [NaverBlog](https://blog.naver.com/trailer_)
 
 ---
 
